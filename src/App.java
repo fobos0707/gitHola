@@ -5,9 +5,13 @@ public class App {
         System.out.println("Hello, quiero keke");
         for (int i = 0; i < 10; i++) {
             System.out.println("Hello, quiero keke");
+            while (i < 5) {
+                System.out.println("Hello, quiero keke");
+                i++;
+            }
         }
         //hola mi gente
-    }
+    }  
 }
 // cambios finales
 // cambios
